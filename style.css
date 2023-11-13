@@ -1,7 +1,10 @@
 h1{ 
     text-align:center;
-}
-p{ 
+    background-color#B33435;
      text-align: center;
-      color:cyan
+      color:aquamarine
        font-size: 30px;
+} 
+P{text-align: center;
+color:aquamarine}
+font-size: 30px;
